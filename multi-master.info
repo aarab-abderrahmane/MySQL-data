@@ -1,0 +1,17 @@
+2025-05-02 21:26:26 0 [Note] Reading of all Master_info entries succeeded
+2025-05-02 21:26:26 0 [Note] Added new Master_info '' to hash table
+2025-05-02 21:26:26 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-05-02 21:30:29 12 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
+2025-05-02 21:30:35 14 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
+2025-05-02 21:30:35 18 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
+2025-05-02 21:30:36 20 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
+2025-05-02 21:30:37 24 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
+2025-05-02 21:30:45 26 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
+2025-05-02 21:30:45 28 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
+2025-05-02 21:30:46 30 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
+2025-05-02 21:30:46 32 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
+2025-05-02 21:31:01 34 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
+2025-05-02 21:31:03 36 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
+2025-05-02 21:31:06 38 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
+2025-05-02 21:31:07 40 [ERROR] mysqld.exe: Incorrect information in file: '.\mysql\user.frm'
